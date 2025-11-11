@@ -1,0 +1,1 @@
+This is the exam i submitted for my C course on my bachelor degree. Please do not miss use this or directly copy if you are using it on academic work yourself. Only uploaded with the intent that it might be helping someone stuck in a similar issue
